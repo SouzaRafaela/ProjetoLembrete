@@ -17,8 +17,6 @@ public class MainActivity<button> extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-
     }
 
 }
